@@ -31,8 +31,21 @@ namespace Diablo
             }
 
             Console.Write("케릭터 선택해주세요(숫자1 ~4) : ");
-            string input = Console.ReadLine();
-            int num = int.Parse(input);
+            //string input = Console.ReadLine();
+            int num;
+            if (int.TryParse(Console.ReadLine(), out num))
+            {
+                if (num <= characterDatas.Length)
+                {
+                    Console.WriteLine("입력한 수는 {0}입니다.", num);
+                }
+                else
+                {
+                    Console.WriteLine("잘못된 수를 입력하였습니다..");
+                }
+            }
+
+
             ChaData selectedChaData = characterDatas[num - 1];
             Console.WriteLine("어서오시게나 {0} 용사여...", selectedChaData.name);
             Console.WriteLine("무기를 주겠네...");
