@@ -1,0 +1,34 @@
+[
+  {
+    "id": 500,
+    "name": "바바리안",
+    "maxLife": 100,
+    "maxMana": 50,
+    "maxStamina": 100,
+    "defaultWeaponId": 100
+  },
+  {
+    "id": 501,
+    "name": "아마존",
+    "maxLife": 100,
+    "maxMana": 50,
+    "maxStamina": 100,
+    "defaultWeaponId": 102
+  },
+  {
+    "id": 502,
+    "name": "소서리스",
+    "maxLife": 100,
+    "maxMana": 50,
+    "maxStamina": 100,
+    "defaultWeaponId": 103
+  },
+  {
+    "id": 503,
+    "name": "팔라딘",
+    "maxLife": 100,
+    "maxMana": 50,
+    "maxStamina": 100,
+    "defaultWeaponId": 101
+  }
+]

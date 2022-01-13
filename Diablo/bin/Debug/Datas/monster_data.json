@@ -1,0 +1,44 @@
+[
+  {
+    "id":100,
+    "name":"고블린",
+    "grade":0,
+    "damage":1,
+    "maxHp":15
+  },
+  {
+    "id":101,
+    "name": "놀",
+    "grade":0,
+    "damage":2,
+    "maxHp":17
+  },
+  {
+    "id":102,
+    "name": "핏스폰 파울도그",
+    "grade":1,
+    "damage":5,
+    "maxHp":1200
+  },
+  {
+    "id":103,
+    "name": "본 애쉬",
+    "grade":1,
+    "damage":6,
+    "maxHp":1800
+  },
+  {
+    "id": 104,
+    "name": "바알",
+    "grade": 2,
+    "damage": 25,
+    "maxHp": 3000
+  },
+  {
+    "id": 105,
+    "name": "디아블로",
+    "grade": 2,
+    "damage": 70,
+    "maxHp": 15000
+  }
+]

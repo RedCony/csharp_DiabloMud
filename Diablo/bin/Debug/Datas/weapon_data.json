@@ -1,0 +1,58 @@
+[
+  {
+    "id": 100,
+    "name": "장검",
+    "grade": 0,
+    "damage": 5.5,
+    "sellPrice": 1500
+  },
+  {
+    "id": 101,
+    "name": "단검",
+    "grade": 0,
+    "damage": 3,
+    "sellPrice": 900
+  },
+  {
+    "id": 102,
+    "name": "활",
+    "grade": 0,
+    "damage": 4.2,
+    "sellPrice": 1200
+  },
+  {
+    "id": 103,
+    "name": "지팡이",
+    "grade": 0,
+    "damage": 1,
+    "sellPrice": 1800
+  },
+  {
+    "id": 104,
+    "name": "크리스탈 소드",
+    "grade": 1,
+    "damage": 7,
+    "sellPrice": 3000
+  },
+  {
+    "id": 105,
+    "name": "크리스",
+    "grade": 1,
+    "damage": 4.5,
+    "sellPrice": 1800
+  },
+  {
+    "id": 106,
+    "name": "스톰 스트라이크",
+    "grade": 1,
+    "damage": 6,
+    "sellPrice": 2400
+  },
+  {
+    "id": 107,
+    "name": "나탈리 스태프",
+    "grade": 1,
+    "damage": 2,
+    "sellPrice": 3600
+  }
+]
